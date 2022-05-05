@@ -3,15 +3,8 @@ line 2
 line 3
 
 line 9 by dev
-changes in dev
-line 9 by dev feature -1
-feature -1
-feature -1
-feature -1
-feature -1
-feature -1
-feature -1
-feature -1
-feature -1
-
-feature-1feature-1feature-1feature-1feature-1feature-1feature-1feature-1feature-1feature-1feature-1
+feature-2
+feature-2
+feature-2
+feature-2
+feature-2feature-2feature-2feature-2feature-2feature-2feature-2feature-2feature-2feature-2
