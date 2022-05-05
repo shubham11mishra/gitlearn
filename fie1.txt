@@ -3,9 +3,4 @@ line 2
 line 3
 
 line 9 by dev
-feature-2
-feature-2
-feature-2
-feature-2
-feature-2feature-2feature-2feature-2feature-2feature-2feature-2feature-2feature-2feature-2
 changes in dev
